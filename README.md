@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c4l0x&label=Profile%20views&color=0e75b6&style=flat" alt="c4l0x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c4l0x" alt="c4l0x" /></a> </p>
 
 - 🔭 I’m currently working on [C#-Ping-Check](https://github.com/C4LOX/CSharp-Ping-Check)
 
@@ -21,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=c4l0x&show_icons=true&theme=dark&locale=en" alt="c4l0x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c4l0x&" alt="c4l0x" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=c4l0x&" alt="c4l0x" />
